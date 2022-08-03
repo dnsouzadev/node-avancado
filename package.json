@@ -1,0 +1,20 @@
+{
+  "name": "avanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsouza-dev/node-avancado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsouza-dev/node-avancado/issues"
+  },
+  "homepage": "https://github.com/dsouza-dev/node-avancado#readme"
+}
